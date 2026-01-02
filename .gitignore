@@ -1,4 +1,14 @@
-venv/
-__pycache__/
+# Jupyter
 .ipynb_checkpoints/
-.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Databases
+*.db
+
+# Temporary CSVs
+*spacex_launch_geo*.csv
