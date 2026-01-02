@@ -30,7 +30,10 @@ The project analyzes historical SpaceX Falcon 9 launch data to identify the key 
 
 ## Presentation
 
-[Final Project Presentation (PDF)](https://1drv.ms/p/c/ac68488bceaf3cbf/IQBRVdnovnGfQIqkuRIecw_rAWk2udAS4ZmTxCIMO3krsrU?e=yrHpwC)
+<a href="https://1drv.ms/p/c/ac68488bceaf3cbf/IQBRVdnovnGfQIqkuRIecw_rAWk2udAS4ZmTxCIMO3krsrU?e=yrHpwC" target="_blank">
+Final Project Presentation (PDF)
+</a>
+
 
 ---
 
